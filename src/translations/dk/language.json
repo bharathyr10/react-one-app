@@ -1,0 +1,43 @@
+{
+  "aboutUs": {
+    "content1": "Diabetestal er udviklet af Diabetesforeningen  i samarbejde med IQVIA, og med sponsorat fra Novo Nordisk, Bayer og Boehringer Ingelheim.",
+    "content2": "Diabetesforeningen er en interesseorganisation, der siden 1940 har støttet personer med diabetes. I dag har vi ca. 90.000 medlemmer og er dermed en af Danmarks største patientforeninger.",
+    "content3": "Læs mere om vores arbejde her :",
+    "content4": "Hvis du har spørgsmål eller ændringsforslag, bedes du skrive til: Nuri Cayuelas Mateu, projektleder, Diabetesforeningen e-mail:"
+  },
+  "help": {
+    "content1": "Diabetestal viser i en lettilgængelig form opdaterede tal for kvaliteten af dansk diabetesbehandling særskilt for komplikationsgrader, demografiske karakteristika og bopæl.",
+    "content2": "Du kan finde detaljeret information om datagrundlaget under",
+    "guidance": "Hjælp",
+    "content3": "Diabetestal er udviklet af Diabetesforeningen og du kan læse mere om foreningen under",
+    "aboutUs": "Om os",
+    "content4": "Hvis du har spørgsmål eller ændringsforslag, bedes du skrive til: Nuri Cayuelas Mateu, projektleder, Diabetesforeningen e-mail:"
+  },
+  "home": {
+    "application_name": "Diabetestal",
+    "faq": "Vejledning/FAQ",
+    "aboutUs": "Om os",
+    "type1": "Type 1-diabetes",
+    "type2": "Type 2-diabetes",
+    "updated": "Opdateret",
+    "allRegion": "Alle Regioner",
+    "allMunicipality": "Alle Kommuner"
+  },
+  "stats": {
+    "type1people": "Type 1 - diabetes",
+    "population": "af ",
+    "diagnosed": "DIAGNOSTICERET SIDSTE ÅR",
+    "diagnosedChildren": "Ny-diagnosticerede børn",
+    "meanValue": "HbA1c-gennemsnittet",
+    "type2people": "Type 2 - diabetes",
+    "meanAge": "ALDERSGENNEMSNITTET FOR NY-DIAGNOSTICEREDE"
+  },
+  "indicator": {
+    "resultTitle": "Resultatoversigt",
+    "indicatorName": "Indikator",
+    "nationalAverage": "Landsgennemsnit",
+    "selectedIndicator": "Valgte Indikator",
+    "resultTooltipInfo1": "Her ser du resultatoversigten for en række indikatorer i den valgte målgruppe og geografiske område sammenlignet med landets gennemsnit.",
+    "resultTooltipInfo2": "Du kan vælge at se udviklingskurven for den valgte indikator for de sidste to år eller et landkort med resultatet for det sidste seks måneder på tværs af regioner eller kommuner."
+  }
+}

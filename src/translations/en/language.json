@@ -1,0 +1,43 @@
+{
+  "aboutUs": {
+    "content1": "Diabetestal is developed by the Danish Diabetes Association in cooperation with IQVIA, and with sponsorship from Novo Nordisk, Bayer, and  Boehringer Ingelheim.",
+    "content2": "The Diabetes Association is an NGO that has supported people with diabetes since 1940. Today, we have approximatly 90,000 members and are thus one of Denmark's largest patient organizations.",
+    "content3": "Read more about our work here :",
+    "content4": "If you have any questions or feedback, please write to: Nuri Cayuelas Mateu, Project Manager, Diabetes Association e-mail:"
+  },
+  "help": {
+    "content1": "Diabetestal shows easy-to-read updated figures on the quality of the Danish diabetes treatment seperately for complication severity, demographic characteristics, and residence.",
+    "content2": "You find detailed information about the data under",
+    "guidance": "Help",
+    "content3": "Diabetestal is developed by the Danish Diabetes Association and you can read more about the association under",
+    "aboutUs": "About us",
+    "content4": "If you have any questions or recommendations, please write to: Nuri Cayuelas Mateu, Project Manager, Diabetes Association e-mail:"
+  },
+  "home": {
+    "application_name": "Diabetestal",
+    "faq": "Guidance/FAQ",
+    "aboutUs": "About Us",
+    "type1": "Type 1 Diabetes",
+    "type2": "Type 2 Diabetes",
+    "updated": "Updated",
+    "allRegion": "All Region",
+    "allMunicipality": "All Municipalities"
+  },
+  "stats": {
+    "type1people": "Type 1 - diabetes",
+    "population": "Of ",
+    "diagnosed": "DIAGNOSED LAST YEAR",
+    "diagnosedChildren": "newly diagnosed children",
+    "meanValue": "Mean value of HbA1c",
+    "type2people": "Type 2 - diabetes",
+    "meanAge": "Mean age of newly diagnosed"
+  },
+  "indicator": {
+    "resultTitle": "Results Summary",
+    "indicatorName": "Indicator",
+    "nationalAverage": "National Average",
+    "selectedIndicator": "Selected Indicator",
+    "resultTooltipInfo1": "Here you see the results overview for several indicators in the selected target group and geographical area compared to the country average.",
+    "resultTooltipInfo2": "You can choose to see the time trend curve for the selected indicator for the last two years or a map with the results for the last six months across regions or municipalities."
+  }
+}
